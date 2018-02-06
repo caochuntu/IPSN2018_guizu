@@ -2,22 +2,22 @@ kartoffel
 =========
 ML project: Real Time Map Matching with HMMs
 --------------------------
-Click [Here](https://github.com/juhanaka/kartoffel) to visit original page.
+Click [here](https://github.com/juhanaka/kartoffel) to visit original page.
 --------------------------
 
 Store OSM data in Postgres
 --------------------------
 
 ### Get data
-* Download California .pbf file from http://download.geofabrik.de/north-america/us/california.html
+* Download California .pbf file from [this website](http://download.geofabrik.de/north-america/us/california.html).
 
 ### Convert data to .osm
-* Download and install osmconvert: http://wiki.openstreetmap.org/wiki/Osmconvert
+* Download and install osmconvert [here](http://wiki.openstreetmap.org/wiki/Osmconvert).
 * Run
 ```osmconvert ./california-latest.osm.pbf >california.osm```
 
 ### Filter everything but highways
-* Download and install osmfilter: http://wiki.openstreetmap.org/wiki/Osmfilter
+* Download and install osmfilter [here](http://wiki.openstreetmap.org/wiki/Osmfilter).
 * Run
 ```osmfilter ./california.osm --keep="highway=" -o=california_roads.osm```
 
