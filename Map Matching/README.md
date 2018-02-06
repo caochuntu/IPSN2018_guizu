@@ -2,7 +2,7 @@ kartoffel
 =========
 ML project: Real Time Map Matching with HMMs
 --------------------------
-Click [Here!](https://github.com/juhanaka/kartoffel) to visit original page.
+Click [Here](https://github.com/juhanaka/kartoffel) to visit original page.
 --------------------------
 
 Store OSM data in Postgres
