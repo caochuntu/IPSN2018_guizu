@@ -1,2 +1,3 @@
-# IPSN2018_VitalAlley
-source code of IPSN 2018 paper "Walkway Discovery from Large Scale Crowdsensing"
+# Walkway Discovery from Large Scale Crowdsensing
+
+Source code of our IPSN 2018 paper "Walkway Discovery from Large Scale Crowdsensing"
