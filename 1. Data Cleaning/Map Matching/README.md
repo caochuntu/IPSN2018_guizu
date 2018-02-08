@@ -30,3 +30,4 @@ Store OSM data in Postgres
     * In the db prompt: ```CREATE EXTENSION postgis;```
 * Run ```osm2pgsql -s -U username -d databasename /path/to/file.osm```
 
+**We remove the unnecessary components, such as direction score**.
