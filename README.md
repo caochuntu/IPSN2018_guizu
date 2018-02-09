@@ -1,7 +1,7 @@
 # Walkway Discovery from Large Scale Crowdsensing
 --------------------------------------------------
 
-Source code of IPSN 2018 paper "Walkway Discovery from Large Scale Crowdsensing" is shown here and will be updated continuously.
+Source code of IPSN 2018 paper "Walkway Discovery from Large Scale Crowdsensing" is shown here.
 --------------------------------------------------
 
 **There are three parts in our code:**
@@ -14,3 +14,5 @@ Currently we just update map matching in **Data Classification** based on [karto
 Thus, we design a quadtree based method, which dramatically improve the efficiency of map matching phase.
 The quadtree-based code will be available by the end of 18 Februray 2018.
 
+
+_We will updated the code continuously_.
