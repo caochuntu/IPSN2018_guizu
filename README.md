@@ -1,5 +1,4 @@
 # Walkway Discovery from Large Scale Crowdsensing
---------------------------------------------------
 
 Source code of IPSN 2018 paper "Walkway Discovery from Large Scale Crowdsensing" is shown here.
 --------------------------------------------------
@@ -15,4 +14,4 @@ Thus, we design a quadtree based method, which dramatically improve the efficien
 The quadtree-based code will be available by the end of 18 Februray 2018.
 
 
-_We will updated the code continuously_.
+_We will keep updating the code continuously_.
